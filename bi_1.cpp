@@ -1,3 +1,4 @@
+//finding an element using binary search.
 #include <bits/stdc++.h>
 using namespace std;
 // 6
